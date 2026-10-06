@@ -1,0 +1,29 @@
+{
+  "_leia": "Roteiro de Stories publicados automaticamente (sem adesivo de link; as artes já orientam: 'Peça em polenta.cc' / 'link na bio'). Horários em America/Sao_Paulo (-03:00). 'origem' é o PNG dentro da pasta stories do Drive; o upload converte para JPEG. 'ativo': false = não publica (mostarda, ketchup e legumes só quando estiverem À venda no site).",
+  "stories": [
+    {"id": "2026-10-06-prateleira", "quando": "2026-10-06T18:35:00-03:00", "origem": "chamadas/2026-10-06-18h35-post-prateleira.png", "descricao": "Post novo: A prateleira"},
+    {"id": "2026-10-07-pote-abobrinha", "quando": "2026-10-07T12:00:00-03:00", "origem": "potes/2026-10-07-12h00-02-abobrinha.png", "descricao": "Nº 02 Abobrinha"},
+    {"id": "2026-10-08-capeta", "quando": "2026-10-08T18:35:00-03:00", "origem": "chamadas/2026-10-08-18h35-post-capeta.png", "descricao": "Post novo: Capetinha"},
+    {"id": "2026-10-09-pote-cebola", "quando": "2026-10-09T12:00:00-03:00", "origem": "potes/2026-10-09-12h00-03-cebola.png", "descricao": "Nº 03 Cebolinha"},
+    {"id": "2026-10-10-historia", "quando": "2026-10-10T18:35:00-03:00", "origem": "chamadas/2026-10-10-18h35-post-historia.png", "descricao": "Post novo: Nossa história"},
+    {"id": "2026-10-11-pote-batata", "quando": "2026-10-11T12:00:00-03:00", "origem": "potes/2026-10-11-12h00-04-batata.png", "descricao": "Nº 04 Batata"},
+    {"id": "2026-10-12-pote-tomate", "quando": "2026-10-12T12:00:00-03:00", "origem": "potes/2026-10-12-12h00-05-tomate.png", "descricao": "Nº 05 Tomate confitado"},
+    {"id": "2026-10-13-sacanagem", "quando": "2026-10-13T18:35:00-03:00", "origem": "chamadas/2026-10-13-18h35-post-sacanagem.png", "descricao": "Post novo: Sacanagem"},
+    {"id": "2026-10-14-pote-relish", "quando": "2026-10-14T12:00:00-03:00", "origem": "potes/2026-10-14-12h00-06-relish.png", "descricao": "Nº 06 Relish de cebola"},
+    {"id": "2026-10-15-tabua", "quando": "2026-10-15T18:35:00-03:00", "origem": "chamadas/2026-10-15-18h35-post-tabua.png", "descricao": "Post novo: Tábua em 5 minutos"},
+    {"id": "2026-10-16-pote-capeta", "quando": "2026-10-16T12:00:00-03:00", "origem": "potes/2026-10-16-12h00-07-capeta.png", "descricao": "Nº 07 Capetinha"},
+    {"id": "2026-10-17-confitados", "quando": "2026-10-17T18:35:00-03:00", "origem": "chamadas/2026-10-17-18h35-post-confitados.png", "descricao": "Post novo: Confitados"},
+    {"id": "2026-10-18-pote-sacanagem", "quando": "2026-10-18T12:00:00-03:00", "origem": "potes/2026-10-18-12h00-08-sacanagem.png", "descricao": "Nº 08 Sacanagem"},
+    {"id": "2026-10-19-pote-alho", "quando": "2026-10-19T12:00:00-03:00", "origem": "potes/2026-10-19-12h00-09-alho.png", "descricao": "Nº 09 Alho confitado"},
+    {"id": "2026-10-20-pedir", "quando": "2026-10-20T18:35:00-03:00", "origem": "chamadas/2026-10-20-18h35-post-pedir.png", "descricao": "Post novo: Como pedir"},
+    {"id": "2026-10-20-como-pedir-1", "quando": "2026-10-20T18:40:00-03:00", "origem": "como-pedir/2026-10-20-18h40-1-de-3.png", "descricao": "Como pedir 1 de 3"},
+    {"id": "2026-10-20-como-pedir-2", "quando": "2026-10-20T18:41:00-03:00", "origem": "como-pedir/2026-10-20-18h41-2-de-3.png", "descricao": "Como pedir 2 de 3"},
+    {"id": "2026-10-20-como-pedir-3", "quando": "2026-10-20T18:42:00-03:00", "origem": "como-pedir/2026-10-20-18h42-3-de-3.png", "descricao": "Como pedir 3 de 3"},
+    {"id": "2026-10-22-casa", "quando": "2026-10-22T18:35:00-03:00", "origem": "chamadas/2026-10-22-18h35-post-casa.png", "descricao": "Post novo: Mostarda e ketchup"},
+    {"id": "2026-10-23-pote-mostarda", "quando": "2026-10-23T12:00:00-03:00", "origem": "potes/2026-10-23-12h00-10-mostarda.png", "descricao": "Nº 10 Mostarda (só se À venda)", "ativo": false},
+    {"id": "2026-10-24-entrega", "quando": "2026-10-24T18:35:00-03:00", "origem": "chamadas/2026-10-24-18h35-post-entrega.png", "descricao": "Post novo: Entrega"},
+    {"id": "2026-10-25-pote-ketchup", "quando": "2026-10-25T12:00:00-03:00", "origem": "potes/2026-10-25-12h00-11-ketchup.png", "descricao": "Nº 11 Ketchup (só se À venda)", "ativo": false},
+    {"id": "2026-10-27-legumes", "quando": "2026-10-27T18:35:00-03:00", "origem": "chamadas/2026-10-27-18h35-post-legumes.png", "descricao": "Post novo: Legumes"},
+    {"id": "2026-10-28-pote-legumes", "quando": "2026-10-28T12:00:00-03:00", "origem": "potes/2026-10-28-12h00-12-legumes.png", "descricao": "Nº 12 Legumes (só se À venda)", "ativo": false}
+  ]
+}

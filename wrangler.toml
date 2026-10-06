@@ -1,0 +1,23 @@
+name = "polenta-stories"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# A cada 5 minutos (UTC). O roteiro já traz o fuso -03:00.
+[triggers]
+crons = ["* * * * *"]
+
+[vars]
+# O configurar.sh preenche sozinho depois do primeiro deploy.
+PUBLIC_BASE_URL = "https://polenta-stories.sparkling-mouse-e86c.workers.dev"
+# ID numérico da conta do Instagram (passo 4 do README).
+IG_USER_ID = "17841475448924635"
+# "true" = só cria o container (valida arte e permissões) e não publica.
+DRY_RUN = "false"
+
+[[kv_namespaces]]
+binding = "ESTADO"
+id = "37cd003f7f0f4d2bafa7ec830917a9fc"  # o configurar.sh preenche sozinho
+
+# Segredos (não ficam neste arquivo):
+#   npx wrangler secret put IG_ACCESS_TOKEN   -> token da página (não expira)
+#   npx wrangler secret put ADMIN_KEY         -> senha para /check e /publicar

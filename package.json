@@ -1,0 +1,14 @@
+{
+  "name": "polenta-stories",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "logs": "wrangler tail",
+    "subir-artes": "bash scripts/subir-artes.sh",
+    "test": "node test/simulacao.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
